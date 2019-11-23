@@ -1,0 +1,8 @@
+Algorytm
+1. Stworz koło w środku punktu 1 i R równego jego odległości do dowolnego punktu
+2. Zwiększaj promień aż nie stworzysz koła o R równym największej odległości od danego punktu
+
+3. Przesuwaj  środek okręgu w stronę punktu na okręgu zmniejszając R, aż do natrafienia innego punktu.
+4. Gdy natrafisz na inny punkt zacznij poruszać się po ich symetralnej.
+
+5. Program zakończy się gdy na okręgu znajdzie się 3 punkt lub środek okręgu znajdzie się na symetralnej dwóch punktów.
